@@ -119,38 +119,6 @@ To become an AI Engineer capable of building intelligent products that solve rea
 - AI Automation
 - Multi-Agent Systems
 
----
-
-# 🚀 Featured Projects
-
-### 🌾 Fuzzy Bee
-
-AI-assisted Smart Farming Platform
-
-✔ Crop Monitoring
-
-✔ Soil Analysis
-
-✔ Smart Alerts
-
-✔ Modern Dashboard
-
----
-
-### 🎯 Smart Presence
-
-AI Face Recognition Attendance System
-
-✔ Face Recognition
-
-✔ Attendance Analytics
-
-✔ Email Notifications
-
-✔ PDF & Excel Reports
-
----
-
 # 🧠 AI Learning Journey
 
 ✅ Python
@@ -163,7 +131,7 @@ AI Face Recognition Attendance System
 
 🔄 Deep Learning
 
-🔄 Generative AI
+🔄 Java
 
 🔄 Computer Vision
 
@@ -173,15 +141,15 @@ AI Face Recognition Attendance System
 
 🔄 Blender
 
-🔄 Data Engineering
+🔄 Data Analytics
 
 ---
 
 # 📅 2026 Goals
 
-- Complete 250+ LeetCode Problems
+- Complete 100 LeetCode Problems
 
-- Build 15 AI Projects
+- Build  AI Projects
 
 - Learn Three.js
 
@@ -200,13 +168,13 @@ AI Face Recognition Attendance System
 # 📫 Connect With Me
 
 📧 Email:
-**harsithofficial07@gmail.com**
+hpaids86@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/harsith-s-j
+www.linkedin.com/in/hari-prasath-r-b8ab12369
 
 💻 GitHub:
-https://github.com/S-harsith
+https://github.com/hpaids86-bot/hpaids86-bot/edit/main/README.md
 
 ---
 
