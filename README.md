@@ -64,9 +64,7 @@ To become an AI Engineer capable of building intelligent products that solve rea
 - Computer Vision
 - Pandas
 - NumPy
-- Scikit-Learn
 - TensorFlow
-- PySpark
 
 ### Web Technologies
 
@@ -107,8 +105,6 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 🎨 3D Technologies
 
-- Three.js
-- Blender
 - React Three Fiber
 - WebGL
 
@@ -133,13 +129,9 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 🔄 Java
 
-🔄 Computer Vision
+🔄 Generative AI
 
 🔄 LLM Applications
-
-🔄 Three.js
-
-🔄 Blender
 
 🔄 Data Analytics
 
@@ -147,21 +139,21 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 # 📅 2026 Goals
 
-- Complete 100 LeetCode Problems
-
 - Build  AI Projects
 
-- Learn Three.js
+- Learn Somenew
 
-- Learn Blender
+- Learn AI MODEL 
 
 - Master Deep Learning
 
 - Deploy AI Models
 
-- Learn MLOps
+- Learn OOPs Concepts
 
 - Contribute to Open Source
+ 
+- Contribute To Solve real-World Problem 
 
 ---
 
