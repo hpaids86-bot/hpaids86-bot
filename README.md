@@ -119,7 +119,7 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 ✅ Python
 
-✅ Machine Learning
+✅ GitHub
 
 ✅ SQL
 
