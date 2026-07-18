@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  👋, I'm Hari Prasath R</h1>
 
 <h3 align="center">
-AI & Data Science Student | AI Developer | Data Science Enthusiast
+AI & Data Science Student | AI Developer | Cloud Engineer
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@ Building intelligent solutions using Artificial Intelligence, Data Science, and 
 
 🌱 Currently learning
 
-- Deep Learning
+- Machine Learning
 - Generative AI
 - Large Language Models (LLMs)
 - PySpark & Big Data
@@ -141,7 +141,7 @@ To become an AI Engineer capable of building intelligent products that solve rea
 
 - Build  AI Projects
 
-- Learn Somenew
+- Learn Somenew Thing When Company Required
 
 - Learn AI MODEL 
 
