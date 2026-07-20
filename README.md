@@ -39,8 +39,6 @@ Building intelligent solutions using Artificial Intelligence, Data Science, and 
 - Large Language Models (LLMs)
 - PySpark & Big Data
 - Data Engineering
-- 3D Web Development (Three.js)
-- Blender for 3D Modeling
 - AI Automation
 
 🎯 Goal
