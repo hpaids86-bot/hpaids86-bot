@@ -1,173 +1,96 @@
-## Hi there 👋
-
-<!--
-**hpaids86-bot/hpaids86-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 👋, I'm Hari Prasath R</h1>
-
-<h3 align="center">
-AI & Data Science Student | AI Developer | Cloud Engineer
-</h3>
+<h1 align="center">Hi 👋, I'm Hari Prasath R</h1>
+<h3 align="center">AI & Data Science Student | AI Developer | Cloud Enthusiast</h3>
 
 <p align="center">
-Building intelligent solutions using Artificial Intelligence, Data Science, and Modern Technologies.
+I build intelligent, real-world solutions at the intersection of AI, Data Science, and Cloud — currently on the path to becoming an AI Engineer.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hari-prasath-r-b8ab12369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hpaids86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🎯 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science Student
-
-💡 Passionate about AI, Machine Learning, Computer Vision, and Data Analytics.
-
-🌱 Currently learning
-
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- PySpark & Big Data
-- Data Engineering
-- AI Automation
-
-🎯 Goal
-
-To become an AI Engineer capable of building intelligent products that solve real-world problems.
+- 🎓 B.Tech Artificial Intelligence & Data Science, V.S.B College of Engineering Technical Campus
+- 💡 Focused on AI, Machine Learning, Generative AI, and Data Analytics
+- 🧠 Building projects that combine NLP, cloud infrastructure, and clean UI/UX
+- 🌱 Currently deepening my knowledge of LLM applications, PySpark, and AI Agents
+- 🎯 Goal: become an AI Engineer who ships products that solve real problems — not just prototypes
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-### Programming
-
+**Languages & Core**
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,java" />
 </p>
 
-### AI & Data Science
+**AI / ML / Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Pandas
-- NumPy
-- TensorFlow
-
-### Web Technologies
-
-- HTML
-- CSS
-- JavaScript
-
-### Tools
-
+**Cloud & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode" />
 </p>
 
 ---
 
-# 📚 Currently Exploring
+### 📚 What I'm Exploring Right Now
 
-🤖 Artificial Intelligence
-
-- Generative AI
-- Prompt Engineering
-- Hugging Face
-- LLM Applications
-- AI Agents
-
-📊 Data Science
-
-- Statistics
-- Data Cleaning
-- Feature Engineering
-- Model Deployment
-
-☁ Cloud
-
-- AWS Basics
-- Google Cloud
-- Docker
-
-🎨 3D Technologies
-
-- React Three Fiber
-- WebGL
-
-🧠 AI Research
-
-- RAG
-- LangChain
-- AI Automation
-- Multi-Agent Systems
-
-# 🧠 AI Learning Journey
-
-✅ Python
-
-✅ GitHub
-
-✅ SQL
-
-✅ Data Analytics
-
-🔄 Deep Learning
-
-🔄 Java
-
-🔄 Generative AI
-
-🔄 LLM Applications
-
-🔄 Data Analytics
+| Area | Focus |
+|---|---|
+| 🤖 Generative AI | Prompt Engineering, LLM Applications, Hugging Face, AI Agents |
+| 📊 Data Science | Statistics, Feature Engineering, Model Deployment |
+| ☁️ Cloud | AWS, Google Cloud, Docker |
+| 🧠 AI Research | RAG, LangChain, Multi-Agent Systems |
+| 🎨 3D / Web | React Three Fiber, WebGL |
 
 ---
 
-# 📅 2026 Goals
+### 🧭 Learning Progress
 
-- Build  AI Projects
-
-- Learn Somenew Thing When Company Required
-
-- Learn AI MODEL 
-
-- Master Deep Learning
-
-- Deploy AI Models
-
-- Learn OOPs Concepts
-
-- Contribute to Open Source
- 
-- Contribute To Solve real-World Problem 
+✅ Python &nbsp;&nbsp; ✅ SQL &nbsp;&nbsp; ✅ GitHub &nbsp;&nbsp; ✅ Data Analytics
+🔄 Deep Learning &nbsp;&nbsp; 🔄 Generative AI &nbsp;&nbsp; 🔄 Java &nbsp;&nbsp; 🔄 LLM Applications
 
 ---
 
-# 📫 Connect With Me
+### 📅 2026 Goals
 
-📧 Email:
-hpaids86@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/hari-prasath-r-b8ab12369
-
-💻 GitHub:
-https://github.com/hpaids86-bot/hpaids86-bot/edit/main/README.md
+- 🚀 Ship 3–4 end-to-end AI projects (not just notebooks — deployed and usable)
+- 🧠 Master Deep Learning fundamentals and applied architectures
+- ☁️ Get hands-on with model deployment pipelines
+- 🧩 Strengthen OOP fundamentals in Java
+- 🌍 Make first open-source contribution
+- 🛠️ Pick up new tools as roles demand — stay adaptable, not just certified
 
 ---
 
-<h3 align="center">
-🚀 Keep Learning • Keep Building • Keep Growing
-</h3>
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hpaids86-bot&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpaids86-bot&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hpaids86-bot&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** hpaids86@gmail.com
+- 💼 **LinkedIn:** [hari-prasath-r](https://www.linkedin.com/in/hari-prasath-r-b8ab12369)
+- 💻 **GitHub:** [@hpaids86-bot](https://github.com/hpaids86-bot)
+
+---
+
+<h3 align="center">🚀 Keep Learning • Keep Building • Keep Growing</h3>
